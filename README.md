@@ -15,7 +15,7 @@ Berikut adalah Flowchart Program pada Praktikum 2
 ![img1](image/55.png)
 
 dari Flowchart di atas kita bisa membuat program sederhana seperti ini:
-![img2](image/66.png)
+![img2](image/11.png)
 
 
 **Penjabaran Program**
